@@ -30,11 +30,3 @@ This project leverages VGA mode 0x13 (320x200, 256 colors) and operates by loadi
 
 ---
 
-## Building the Project
-
-The project is built using the provided Makefile and Open Watcom toolchain.
-
-```bash
-wmake
-
-
